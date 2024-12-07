@@ -1,0 +1,5 @@
+# zenoh==0.1.0
+numpy
+neurokit2
+pywavelets
+opencv-python
